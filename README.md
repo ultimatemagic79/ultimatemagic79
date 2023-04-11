@@ -1,6 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently working on Chiba Univercity
-### 🌱 I’m currently learning Machine Learning
+### 🔭 千葉大学院融合理工学府1年
+### 🌱 機械学習　物体検出　Web開発
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatemagic79&layout=compact&show_icons=true&theme=onedark" />
