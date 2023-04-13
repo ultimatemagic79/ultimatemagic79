@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ULTIMATEMAGIC79_SECRETS }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ github.ultimatemagic79 }}
