@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kaito Sugiyama</h1>
-### 🔭 千葉大学院融合理工学府1年
-### 🌱 機械学習　物体検出　Web開発
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimatemagic79&theme=onedark&column=9" alt="ultimatemagic79" /></a> </p>
+<h3 align="left">Studying:</h3>
+<p align="left">🏫In Chiba University Graduate School of Engineering, I am majoring in Information Science.</p>
+<h3 align="left">Interesting:</h3>
+<p align="left">Machine Learning, Object Detection, Web Engineering, Domain Adaptation</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimatemagic79" alt="ultimatemagic79" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
