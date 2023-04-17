@@ -6,9 +6,10 @@
 <p align="left">Machine Learning, Object Detection, Web Engineering, Domain Adaptation</p>
 
 
-<p>![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatemagic79&theme=radical)</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultimatemagic79&show_icons=true&locale=en&theme=radical" alt="ultimatemagic79" /></p>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatemagic79&layout=compact&show_icons=true&theme=radical" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ultimatemagic79&theme=radical&show_icons=ture" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimatemagic79&theme=dark_lover" alt="ultimatemagic79" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
