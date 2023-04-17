@@ -6,7 +6,7 @@
 <p align="left">Machine Learning, Object Detection, Web Engineering, Domain Adaptation</p>
 
 
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ultimatemagic79&count_private=true&show_icons=true&theme=react" /></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatemagic79&count_private=true&show_icons=true&theme=react" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ultimatemagic79&show_icons=true&locale=en&theme=radical" alt="ultimatemagic79" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimatemagic79&theme=dark_lover" alt="ultimatemagic79" /></a> </p>
