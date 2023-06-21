@@ -6,8 +6,8 @@
 <p align="left">Machine Learning, Object Detection, Web Engineering, Domain Adaptation</p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatemagic79&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ultimatemagic79&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatemagic79&layout=compact&count_private=true&show_icons=true&theme=radical&hide=css" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ultimatemagic79&count_private=true&show_icons=true&show_icons=true&theme=radical" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimatemagic79&theme=dark_lover&column=-1" alt="ultimatemagic79" /></a> </p>
 
