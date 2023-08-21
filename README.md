@@ -91,4 +91,4 @@
   <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ultimatemagic79&theme=tokyonight&exclude=CSS,dockerfile" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80%" src="https://github-profile-trophy.vercel.app/?username=tf63&no-frame=true&theme=tokyonight" alt="ultimatemagic79" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80%" src="https://github-profile-trophy.vercel.app/?username=ultimatemagic79&no-frame=true&theme=tokyonight" alt="ultimatemagic79" /></a> </p>
