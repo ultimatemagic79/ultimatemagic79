@@ -25,22 +25,22 @@
 
 
 
-<h3 align="left">Favorite Techs:</h3>
+<h3 align="left">My Techs:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java," />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=github,linux,postgres," />
   </a>
 </p>
 
 <h3 align="left">Learning:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=go,docker,aws,githubaction," />
   </a>
 </p>
 
