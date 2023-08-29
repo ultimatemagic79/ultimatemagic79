@@ -6,7 +6,7 @@
 <p align="left">Machine Learning, Object Detection, Web Engineering, Domain Adaptation</p>
 
 
-![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/tf63)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/tf63)
+![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
 <p align="left"> 
   <img alt="git" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" />
