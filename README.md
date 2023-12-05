@@ -28,7 +28,7 @@
 <h3 align="left">My Techs:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java," />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java,gcp" />
   </a>
 </p>
 <p align="left">
