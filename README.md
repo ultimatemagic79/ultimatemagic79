@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kaito Sugiyama</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ultimatemagic79!....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <h3 align="left">Studying:</h3>
 <p align="left">🏫In Chiba University Graduate School of Engineering, I am majoring in Information Science.</p>
