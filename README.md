@@ -6,19 +6,19 @@
 
 <h3 align="left">Studying:</h3>
 <p align="left">🏫In Chiba University Graduate School of Engineering, I am majoring in Information Science.
-  <a href="https://app.daily.dev/ultimatemagic79"><img src="https://github.com/ultimatemagic79/ultimatemagic79/blob/main/devcard.svg" width="25%" alt="Kaito Sugiyama's Dev Card" align="right"/></a></p>
+  <a href="https://app.daily.dev/ultimatemagic79"><img src="https://github.com/ultimatemagic79/ultimatemagic79/blob/main/devcard.svg" width="26%" alt="Kaito Sugiyama's Dev Card" align="right"/></a></p>
 <h3 align="left">Interesting:</h3>
 <p align="left">Machine Learning, Data Science, Test Time Adaptation, Web Engineering</p>
 
 ![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
 <p>
-  <img alt="git" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" align="left"/>
-  <img alt="git" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultimatemagic79&theme=tokyonight&utcOffset=8" align="center"/>
+  <img alt="git" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" align="left"/>
+  <img alt="git" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultimatemagic79&theme=tokyonight&utcOffset=8" align="center"/>
 </p>
 
 
-<img alt="profile-detail" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ultimatemagic79&theme=tokyonight" />
+<img alt="profile-detail" width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ultimatemagic79&theme=tokyonight" />
 
 <!-- <p align="left"> <a href="https://twitter.com/tqfv63" target="blank"><img src="https://img.shields.io/twitter/follow/tqfv63?logo=twitter&style=for-the-badge" alt="tqfv63" /></a> </p> -->
 
