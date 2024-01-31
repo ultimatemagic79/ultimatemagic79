@@ -9,12 +9,12 @@
 <h3 align="left">Interesting:</h3>
 <p align="left">Machine Learning, Object Detection, Web Engineering, Domain Adaptation</p>
 
-
 ![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
-<p align="left"> 
-  <img alt="git" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" />
-  <img alt="git" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultimatemagic79&theme=tokyonight&utcOffset=8" />
+<p>
+<a href="https://app.daily.dev/ultimatemagic79"><img src="https://api.daily.dev/devcards/84d0b5e5c498477a830c70d99a797799.png?r=grl" width="256" alt="kaito sugiyama's Dev Card" align="right"/></a>
+<img alt="git" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" align="left"/>
+  <img alt="git" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultimatemagic79&theme=tokyonight&utcOffset=8" align="center"/>
 </p>
 
 
