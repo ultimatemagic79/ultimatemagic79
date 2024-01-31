@@ -5,16 +5,16 @@
 </h1>
 
 <h3 align="left">Studying:</h3>
-<p align="left">🏫In Chiba University Graduate School of Engineering, I am majoring in Information Science.</p>
+<p align="left">🏫In Chiba University Graduate School of Engineering, I am majoring in Information Science.
+  <a href="https://app.daily.dev/ultimatemagic79"><img src="https://api.daily.dev/devcards/84d0b5e5c498477a830c70d99a797799.png?r=grl" width="25%" alt="kaito sugiyama's Dev Card" align="right"/></a></p>
 <h3 align="left">Interesting:</h3>
-<p align="left">Machine Learning, Object Detection, Web Engineering, Domain Adaptation</p>
+<p align="left">Machine Learning, Data Science, Test Time Adaptation, Web Engineering</p>
 
 ![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
 <p>
-<a href="https://app.daily.dev/ultimatemagic79"><img src="https://api.daily.dev/devcards/84d0b5e5c498477a830c70d99a797799.png?r=grl" width="256" alt="kaito sugiyama's Dev Card" align="right"/></a>
-<img alt="git" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" align="left"/>
-  <img alt="git" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultimatemagic79&theme=tokyonight&utcOffset=8" align="center"/>
+  <img alt="git" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" align="left"/>
+  <img alt="git" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultimatemagic79&theme=tokyonight&utcOffset=8" align="center"/>
 </p>
 
 
