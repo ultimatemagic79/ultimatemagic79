@@ -12,6 +12,11 @@
 
 ![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
+![competition](https://www.kaggle.com/static/images/tiers/contributor.svg)
+![dataset](https://www.kaggle.com/static/images/tiers/contributor.svg)
+![notebook](https://www.kaggle.com/static/images/tiers/contributor.svg)
+![discussion](https://www.kaggle.com/static/images/tiers/contributor.svg)
+
 <p>
   <img alt="git" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" align="left"/>
   <img alt="git" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultimatemagic79&theme=tokyonight&utcOffset=8" align="center"/>
