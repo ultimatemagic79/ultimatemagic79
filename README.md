@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ultimatemagic79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimatemagic79" height="30" width="40" /></a>
+<a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimate_starry" height="30" width="40" /></a>
 </p>
 
 
@@ -52,48 +52,6 @@
     <img src="https://skillicons.dev/icons?i=go,docker,aws,githubaction," />
   </a>
 </p>
-
-
-<!--
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,py" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,php,html,css,js" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,postgres,figma" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,linux,docker" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,laravel" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,react,next,graphql,vercel,supabase" />
-  </a>
-</p>
--->
-
-
-
-<!--
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tf63&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=atcoder" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tf63&hide_border=true&theme=tokyonight" />
-</p>-->
 
 
 <p align="left"> 
