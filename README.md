@@ -12,10 +12,10 @@
 
 ![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
-![competition](https://www.kaggle.com/static/images/tiers/contributor.svg)
-![dataset](https://www.kaggle.com/static/images/tiers/contributor.svg)
-![notebook](https://www.kaggle.com/static/images/tiers/contributor.svg)
-![discussion](https://www.kaggle.com/static/images/tiers/contributor.svg)
+| Competition | Dataset | Notebook | Discussion |
+| :---: | :---: | :---: | :---: |
+| ![competition](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![dataset](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![notebook](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![discussion](https://www.kaggle.com/static/images/tiers/contributor.svg) |
+
 
 <p>
   <img alt="git" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" align="left"/>
@@ -25,37 +25,13 @@
 
 <img alt="profile-detail" width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ultimatemagic79&theme=tokyonight" />
 
-<!-- <p align="left"> <a href="https://twitter.com/tqfv63" target="blank"><img src="https://img.shields.io/twitter/follow/tqfv63?logo=twitter&style=for-the-badge" alt="tqfv63" /></a> </p> -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimate_starry" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">My Techs:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java,gcp" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linux,postgres," />
-  </a>
-</p>
-
-<h3 align="left">Learning:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,aws,githubaction," />
-  </a>
-</p>
+| Contact | My Tech | Training |
+| :---: | :---: | :---: |
+| <a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimate_starry" height="30" width="40" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java,gcp,github,linux,postgres" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,docker,aws,react,ts" /></a> |
 
 
 <p align="left"> 
-  <img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatemagic79&hide=css,html&theme=tokyonight" />
+  <img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatemagic79&hide=css,HTML&theme=tokyonight" />
   <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ultimatemagic79&theme=tokyonight&exclude=CSS,dockerfile" />
 </p>
 
