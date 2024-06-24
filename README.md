@@ -17,22 +17,13 @@
 | ![competition](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![dataset](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![notebook](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![discussion](https://www.kaggle.com/static/images/tiers/contributor.svg) |
 
 
-<p>
-  <img alt="git" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultimatemagic79&show_icons=true&theme=tokyonight" align="left"/>
-  <img alt="git" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultimatemagic79&theme=tokyonight&utcOffset=8" align="center"/>
-</p>
-
-
-<img alt="profile-detail" width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ultimatemagic79&theme=tokyonight" />
-
 | Contact | My Tech | Training |
 | :---: | :---: | :---: |
 | <a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimate_starry" height="30" width="40" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java,gcp,github,linux,postgres" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,docker,aws,react,ts" /></a> |
 
 
 <p align="left"> 
-  <img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatemagic79&hide=css,HTML&theme=tokyonight" />
+  <img alt="Top Langs" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language/?username=ultimatemagic79&exclude=css,HTML&theme=tokyonight" />
   <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ultimatemagic79&theme=tokyonight&exclude=CSS,dockerfile" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80%" src="https://github-profile-trophy.vercel.app/?username=ultimatemagic79&no-frame=true&theme=tokyonight" alt="ultimatemagic79" /></a> </p>
