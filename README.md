@@ -4,10 +4,10 @@
   </a>
 </h1>
 
-<h3 align="left">Studying:</h3>
+<h2 align="left">Studying:</h2>
 <p align="left">🏫In Chiba University Graduate School of Engineering, I am majoring in Information Science.
   <!-- <a href="https://app.daily.dev/ultimatemagic79"><img src="https://github.com/ultimatemagic79/ultimatemagic79/blob/main/devcard.svg" width="26%" alt="Kaito Sugiyama's Dev Card" align="right"/></a></p> -->
-<h3 align="left">Interesting:</h3>
+<h2 align="left">Interesting:</h2>
 <p align="left">Machine Learning, Data Science, Test Time Adaptation, Web Engineering</p>
 
 ![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
