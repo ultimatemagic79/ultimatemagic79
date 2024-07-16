@@ -22,8 +22,8 @@
 | <a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimate_starry" height="30" width="40" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java,gcp,github,linux,postgres" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,docker,aws,react,ts" /></a> |
 
 
-<p align="left"> 
+<!--<p align="left"> 
   <img alt="Top Langs" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language/?username=ultimatemagic79&exclude=css,HTML&theme=tokyonight" />
   <img alt="git" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ultimatemagic79&theme=tokyonight&exclude=CSS,dockerfile" />
-</p>
+</p>-->
 
