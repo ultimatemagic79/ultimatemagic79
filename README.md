@@ -12,14 +12,16 @@
 
 ![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
-| Competition | Dataset | Notebook | Discussion |
-| :---: | :---: | :---: | :---: |
-| ![competition](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![dataset](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![notebook](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![discussion](https://www.kaggle.com/static/images/tiers/contributor.svg) |
+<h2 align="left">Kaggle</h2>
+
+| Profile | Competition | Dataset | Notebook | Discussion |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.kaggle.com/ultimatemagic79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimate_starry" height="30" width="40" /></a> | ![competition](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![dataset](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![notebook](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![discussion](https://www.kaggle.com/static/images/tiers/contributor.svg) |
 
 
 | Contact | My Tech | Training |
 | :---: | :---: | :---: |
-| <a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimate_starry" height="30" width="40" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java,gcp,github,linux,postgres" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,docker,aws,react,ts" /></a> |
+| <a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimatemagic79" height="30" width="40" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java,gcp,github,linux,postgres" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,docker,aws,react,ts" /></a> |
 
 
 <!--<p align="left"> 
