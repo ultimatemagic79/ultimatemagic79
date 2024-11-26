@@ -3,14 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+ultimatemagic79..!;Thank+you+for+visiting+me!&center=true&size=29">
   </a>
 </h1>
+![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
 <h2 align="left">Studying</h2>
 <p align="left">🏫In Chiba University Graduate School of Engineering, I am majoring in Information Science.
 
 <h2 align="left">Interesting</h2>
 <p align="left">Machine Learning, Data Science, Test Time Adaptation, Web Engineering</p>
-
-![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
 <h2 align="left">Kaggle</h2>
 
