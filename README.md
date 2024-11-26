@@ -16,7 +16,7 @@
 
 | Profile | Competition | Dataset | Notebook | Discussion |
 | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.kaggle.com/ultimatemagic79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimate_starry" height="30" width="40" /></a> | ![competition](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![dataset](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![notebook](https://www.kaggle.com/static/images/tiers/contributor.svg) | ![discussion](https://www.kaggle.com/static/images/tiers/contributor.svg) |
+| <a href="https://www.kaggle.com/ultimatemagic79" target="blank"><img align="center" src="src/kaggle_icon.webp" alt="ultimatemagic79" height="30" width="40" /></a> | ![competition](src/kaggle_contributor.svg) | ![dataset](src/kaggle_contributor.svg) | ![notebook](src/kaggle_contributor.svg) | ![discussion](src/kaggle_contributor.svg) |
 
 
 | Contact | My Tech | Training |
