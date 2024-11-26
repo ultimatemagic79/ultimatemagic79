@@ -16,7 +16,7 @@
 
 | Profile | Competition | Dataset | Notebook | Discussion |
 | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.kaggle.com/ultimatemagic79" target="blank"><img align="center" src="src/kaggle_icon.webp" alt="ultimatemagic79" height="30" width="30" /></a> | ![competition](src/kaggle_contributor.svg) | ![dataset](src/kaggle_contributor.svg) | ![notebook](src/kaggle_contributor.svg) | ![discussion](src/kaggle_contributor.svg) |
+| <a href="https://www.kaggle.com/ultimatemagic79" target="blank"><img align="center" src="src/Kaggle Logo.svg" alt="ultimatemagic79"></a> | ![competition](src/kaggle_contributor.svg) | ![dataset](src/kaggle_contributor.svg) | ![notebook](src/kaggle_contributor.svg) | ![discussion](src/kaggle_contributor.svg) |
 
 
 <h2 align="left">Engineering</h2>
