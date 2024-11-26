@@ -20,6 +20,7 @@
 
 
 <h2 align="left">Engineering</h2>
+
 | Contact | My Tech | Training |
 | :---: | :---: | :---: |
 | <a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimatemagic79" height="30" width="40" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,c,bots,django,java,gcp,github,linux,postgres" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,docker,aws,react,ts" /></a> |
