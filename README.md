@@ -6,17 +6,17 @@
 
 ![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
-<h2 align="left">Studying</h2>
-<p align="left">🏫In Chiba University Graduate School of Engineering, I am majoring in Information Science.
+<h2 align="left">Job</h2>
+<p align="left">Machine Learning Engineer</p>
 
 <h2 align="left">Interesting</h2>
-<p align="left">Machine Learning, Data Science, Test Time Adaptation, Web Engineering</p>
+<p align="left">Machine Learning, Data Science, Web (App) Engineering</p>
 
 <h2 align="left">Kaggle</h2>
 
 | Profile | Competition | Dataset | Notebook | Discussion |
 | :---: | :---: | :---: | :---: | :---: |
-| <a href="https://www.kaggle.com/ultimatemagic79" target="blank"><img align="center" src="src/Kaggle Logo.svg" alt="ultimatemagic79" height="40"></a> | ![competition](src/kaggle_contributor.svg) | ![dataset](src/kaggle_contributor.svg) | ![notebook](src/kaggle_contributor.svg) | ![discussion](src/kaggle_contributor.svg) |
+| <a href="https://www.kaggle.com/ultimatemagic79" target="blank"><img align="center" src="src/Kaggle Logo.svg" alt="ultimatemagic79" height="40"></a> | ![competition](src/kaggle_contributor.svg) | ![dataset](src/kaggle_contributor.svg) | ![notebook](https://www.kaggle.com/static/images/tiers/expert.svg) | ![discussion](src/kaggle_contributor.svg) |
 
 
 <h2 align="left">Engineering</h2>
