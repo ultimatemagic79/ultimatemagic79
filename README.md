@@ -23,7 +23,7 @@
 
 | Contact | My Tech | Training |
 | :---: | :---: | :---: |
-| <a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimatemagic79" height="30" width="40" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,django,fastapi,gcp,github" /></a><br><a><img src="https://skillicons.dev/icons?i=c,bots,java,linux,postgres" /><img src="src/Bigquery SVG Icon.svg" height="40" width="40"></a>| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,docker,aws,react,ts" /></a> |
+| <a href="https://twitter.com/ultimate_starry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ultimatemagic79" height="30" width="40" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,django,fastapi,gcp,github" /></a><br><a><img src="src/dbt.webp" height="40" width="40"><img src="https://skillicons.dev/icons?i=c,bots,java,linux,postgres" /><img src="src/Bigquery SVG Icon.svg" height="40" width="40"></a>| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,docker,aws,react,ts" /></a> |
 
 
 <!--<p align="left"> 
