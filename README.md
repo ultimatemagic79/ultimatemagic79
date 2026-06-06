@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=ultimatemagic79)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kaitolab/posts.svg)](http://qiita.com/kaitolab)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaitolab/contributions.svg)](http://qiita.com/kaitolab)
 
 <h2 align="left">Job</h2>
-<p align="left">Machine Learning Engineer</p>
+<p align="left">Analytics Engineer, Machine Learning Engineer</p>
 
 <h2 align="left">Interesting</h2>
 <p align="left">Machine Learning, Data Science, Web (App) Engineering</p>
